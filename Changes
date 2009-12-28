@@ -1,0 +1,8 @@
+Revision history for Net-eNom
+
+0.02    2009-12-22
+        Don't separate "Domain" when the command actually wants "Domain"
+
+0.01    Date/time
+        First version, released on an unsuspecting world.
+
